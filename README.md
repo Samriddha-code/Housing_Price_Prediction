@@ -45,5 +45,3 @@ Tools and Libraries
 - scikit-learn for modeling, feature selection, and evaluation
 
 ---
-
-This README gives an overview and instructions for the housing price prediction project using linear regression and RFE feature selection.
